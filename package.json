@@ -1,6 +1,6 @@
 {
   "name": "@scdb/simple-http",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./lib/index.js",
   "type": "module",
@@ -9,5 +9,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scdb/simple-http.git"
+  }
 }
