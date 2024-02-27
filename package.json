@@ -1,13 +1,13 @@
 {
   "name": "@scdb/simple-http",
-  "version": "1.0.1a",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Simple http client",
   "main": "./lib/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["http", "client"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -19,5 +19,9 @@
   },
   "dependencies": {
     "qs": "^6.11.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/SCDBRepo/simple-http/issues"
+  },
+  "homepage": "https://github.com/SCDBRepo/simple-http#readme"
 }
