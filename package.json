@@ -1,6 +1,6 @@
 {
   "name": "@scdb/simple-http",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple http client",
   "main": "./lib/index.js",
   "type": "module",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/SCDBRepo/simple-http/issues"
   },
-  "homepage": "https://github.com/SCDBRepo/simple-http#readme"
+  "homepage": "https://github.com/SCDBRepo/simple-http#readme",
+  "engines": {
+    "node": ">=20.0.0"
+  }
 }
