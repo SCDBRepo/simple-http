@@ -1,6 +1,6 @@
 {
   "name": "@scdb/simple-http",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple http client",
   "main": "./lib/index.js",
   "type": "module",
