@@ -1,5 +1,5 @@
 {
-  "name": "@scdb/simple-http",
+  "name": "simple-http",
   "version": "1.0.5",
   "description": "Simple http client",
   "main": "./lib/index.js",
